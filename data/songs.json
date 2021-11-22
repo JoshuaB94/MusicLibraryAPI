@@ -198,5 +198,13 @@
     "artist": "Thin Lizzy",
     "genre": "Rock",
     "releaseDate": "04/17/1976"
+  },
+  {
+    "id": "26",
+    "title": "Last Christmas",
+    "album": "Everything She Wants",
+    "artist": "Wham!",
+    "genre": "Pop",
+    "releaseDate": "12/03/1984"
   }
 ]
