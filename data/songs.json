@@ -192,9 +192,22 @@
     "releaseDate": "02/18/2003"
   },
   {
-    "id": 25
+    "id": 25,
+    "title": "The Boys Are Back in Town",
+    "album": "Jailbreak",
+    "artist": "Thin Lizzy",
+    "genre": "Rock",
+    "releaseDate": "04/17/1976"
   },
   {
     "id": 26
+  },
+  {
+    "id": 27,
+    "title": "The Boys Are Back in Town",
+    "album": "Jailbreak",
+    "artist": "Thin Lizzy",
+    "genre": "Rock",
+    "releaseDate": "04/17/1976"
   }
 ]
