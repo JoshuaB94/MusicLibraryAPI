@@ -3,6 +3,9 @@ const repoContext = require('./repository/repository-wrapper');
 
 const app = express();
 
+app.use(express.json());
+app.use(express.urlencoded({extended: true}));
+
 app.listen(1000, function () {
     console.log("Server Started. Listening on Port 1000.");
 });
