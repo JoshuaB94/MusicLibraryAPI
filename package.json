@@ -1,0 +1,26 @@
+{
+  "name": "musiclibraryapi",
+  "version": "1.0.0",
+  "description": "Week Six Project - Music Library API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaB94/MusicLibraryAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaB94/MusicLibraryAPI/issues"
+  },
+  "homepage": "https://github.com/JoshuaB94/MusicLibraryAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
